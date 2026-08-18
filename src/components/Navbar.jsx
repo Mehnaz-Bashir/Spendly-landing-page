@@ -11,9 +11,9 @@ function Navbar() {
         <a href="#insights">Insights</a>
       </div>
 
-      <button className="nav-button">
-        Get started →
-      </button>
+      <a href="#final-cta" className="nav-button">
+  Get started →
+</a>
     </nav>
   )
 }

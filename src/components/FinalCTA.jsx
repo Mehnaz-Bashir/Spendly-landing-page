@@ -1,6 +1,6 @@
 function FinalCTA() {
   return (
-    <section className="final-cta">
+    <section id="final-cta" className="final-cta">
       <div className="final-cta-content">
         <p className="section-eyebrow">Take control of your finances</p>
 
