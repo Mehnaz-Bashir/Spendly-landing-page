@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import DashboardPreview from './components/DashboardPreview'
 import Features from './components/Features'
 import HowItWorks from './components/HowItWorks'
+import Insights from './components/Insights'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <DashboardPreview />
       <Features />
       <HowItWorks />
+      <Insights />
     </div>
   )
 }
