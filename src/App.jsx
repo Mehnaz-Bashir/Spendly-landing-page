@@ -1,13 +1,14 @@
 import './App.css'
 import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import DashboardPreview from './components/DashboardPreview'
 
 function App() {
   return (
     <div>
       <Navbar />
-
-      <h1>Spendly</h1>
-      <p>Personal finance, made clear.</p>
+      <Hero />
+      <DashboardPreview />
     </div>
   )
 }
